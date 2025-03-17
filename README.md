@@ -65,9 +65,4 @@ This project implements a **smart home automation system** using an **ATmega32 m
 - **Voice Control** using a voice recognition module.
 - **Enhanced Fire Safety Mechanism** to trigger automatic water sprinklers.
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
----
-
-💡 *Feel free to contribute or suggest improvements!* 🚀
