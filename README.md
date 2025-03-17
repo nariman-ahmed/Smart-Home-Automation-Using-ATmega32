@@ -1,4 +1,4 @@
-# 🔥 Smart Home Automation Using ATmega32
+# Smart Home Automation Using ATmega32
 
 ## 📌 Project Overview
 This project implements a **smart home automation system** using an **ATmega32 microcontroller** to control lighting, fan speed, and fire detection based on environmental conditions. It features real-time monitoring and an LCD display for status updates.
