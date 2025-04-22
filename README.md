@@ -51,6 +51,9 @@ This project implements a **smart home automation system** using an **ATmega32 m
 ## 📺 Demo
 
 
+https://github.com/user-attachments/assets/35972174-3137-4e7a-97d7-f76152f1b6d7
+
+
 ## 🚀 How to Run
 1. **Assemble the circuit** using the components listed.
 2. **Flash the code** onto the ATmega32 microcontroller.
